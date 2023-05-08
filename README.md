@@ -1,5 +1,4 @@
-TR| Projede Proteus programında Arduino kartı kullanarak akıllı ev sistemi oluşturulmuştur. Sistem içerisinde;
-      • Yangın alarmı
+TR| Projede Proteus programında Arduino kartı kullanarak akıllı ev sistemi oluşturulmuştur. Sistem içerisinde                                                                                   • Yangın alarmı
       • Hareket algılayan ışık sistemi
       • Dijital termometre
       • Kilit sistemi bulunmaktadır
