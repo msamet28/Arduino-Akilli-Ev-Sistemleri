@@ -1,8 +1,8 @@
 TR| Projede Proteus programında Arduino kartı kullanarak akıllı ev sistemi oluşturulmuştur. Sistem içerisinde;
-       * Yangın alarmı
-       * Hareket algılayan ışık sistemi
-       * Dijital termometre
-       * Kilit sistemi bulunmaktadır
+       • Yangın alarmı
+       • Hareket algılayan ışık sistemi
+       • Dijital termometre
+       • Kilit sistemi bulunmaktadır
 
 Projede aşağıda verilen sensör ve elemanları kullanılmıştır;
 1. Arduino kartı olarak Arduino Mega
@@ -14,10 +14,10 @@ Projede aşağıda verilen sensör ve elemanları kullanılmıştır;
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 EN| An intelligent home system has been created using an Arduino board in the Proteus program. The system includes;
-     * Fire alarm
-     * Motion sensing light system
-     * Digital thermometer
-     * Locking system
+     • Fire alarm
+     • Motion sensing light system
+     • Digital thermometer
+     • Locking system
 
 The following sensors and elements have been used in the project;
 1. Arduino Mega is used as the Arduino board.
