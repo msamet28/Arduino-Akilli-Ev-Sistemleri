@@ -145,4 +145,8 @@ int check()
      Serial.println("WRONG PASSWORD");
      digitalWrite(redled,HIGH);  
    }  
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 39f67bb (first commit)
